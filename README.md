@@ -1,6 +1,6 @@
 # Song-Editor-GraphQL
 
-Starter React & GraphQL project using ApolloClient and Express GraphQL server.
+Basic React & GraphQL project using ApolloClient and Express GraphQL server.
 
 ### Setup
 
